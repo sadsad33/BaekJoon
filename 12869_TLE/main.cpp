@@ -2,7 +2,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include<iostream>
 int n, min;
-int arr[3], original[3], damage[3] = { 9, 3, 1 };
+int arr[3], damage[3] = { 9, 3, 1 };
 void DFS(int index, int* attackCount) {
 	int succeed = 0, fail = 0;
 
@@ -32,8 +32,7 @@ void DFS(int index, int* attackCount) {
 int main(void) {
 	scanf("%d", &n);
 	for (int i = 0; i < n; i++) {
-		scanf("%d", &original[i]);
-		arr[i] = original[i];
+		scanf("%d", &arr[i]);
 	}
 	min = 1 << 30;
 	for (int i = 0; i < n; i++) {
