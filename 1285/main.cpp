@@ -1,3 +1,4 @@
+// 1285 동전 뒤집기
 #define _CRT_SECURE_NO_WARNINGS
 #include<iostream>
 #include<vector>

@@ -1,3 +1,4 @@
+// 19942 다이어트
 #define _CRT_SECURE_NO_WARNINGS
 #include <iostream>
 #include <vector>
@@ -7,7 +8,7 @@ int n, minCost;
 vector<int> records, visit;
 int arr[15][5], quota[4];
 void DFS(int startIndex, int cost) {
-	int succeed = 0, recordIndex = 0, prefixSum[4] = { 0, 0, 0, 0 };
+	int succeed = 0, recordIndex = 0, prefixSum[4] = { 0, 0, 0, 0 }; 
 	for (const auto& iter : visit) {
 		prefixSum[0] += arr[iter][0];
 		prefixSum[1] += arr[iter][1];

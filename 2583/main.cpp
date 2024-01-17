@@ -1,3 +1,4 @@
+// 2583 영역 구하기
 #define _CRT_SECURE_NO_WARNINGS
 #include <iostream>
 #include <algorithm>
