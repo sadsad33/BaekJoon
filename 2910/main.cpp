@@ -1,4 +1,4 @@
-//2910 ºóµµ Á¤·Ä
+// 2910 ºóµµ Á¤·Ä
 #define _CRT_SECURE_NO_WARNINGS
 #include <iostream>
 #include <vector>
@@ -23,6 +23,7 @@ int main(void) {
 		list->nodes[i].num = 0;
 		list->nodes[i].freq = 0;
 	}
+
 	list->size = 0;
 	int maxCnt = 0, iter = n;
 	while (iter--) {

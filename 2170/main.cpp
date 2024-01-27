@@ -1,3 +1,4 @@
+// 2170 ¼±±ß±â
 #define _CRT_SECURE_NO_WARNINGS
 #include <algorithm>
 #include <iostream>
