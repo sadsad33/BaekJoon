@@ -1,4 +1,4 @@
-// 1904 동적계획법
+// 1904 01타일
 #define _CRT_SECURE_NO_WARNINGS
 #include <iostream>
 using namespace std;

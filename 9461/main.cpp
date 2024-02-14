@@ -1,4 +1,4 @@
-//9461 동적 계획법
+//9461 파도반 수열
 #define _CRT_SECURE_NO_WARNINGS
 #include <iostream>
 using namespace std;

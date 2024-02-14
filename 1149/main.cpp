@@ -1,4 +1,4 @@
-// 1149 동적 계획법
+// 1149 RGB 거리
 #define _CRT_SECURE_NO_WARNINGS
 #include <iostream>
 #include <vector>

@@ -1,4 +1,4 @@
-//1912 동적계획법
+//1912 연속합
 #define _CRT_SECURE_NO_WARNINGS
 #include <iostream>
 #include <vector>
