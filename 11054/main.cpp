@@ -1,4 +1,5 @@
 // 11054 가장 긴 바이토닉 부분 수열
+#define _CRT_SECURE_NO_WARNINGS
 #include <iostream>
 #include <vector>
 using namespace std;

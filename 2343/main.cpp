@@ -1,4 +1,5 @@
 // 2343 ±‚≈∏ ∑πΩº
+#define _CRT_SECURE_NO_WARNINGS
 #include <iostream>
 #include <vector>
 using namespace std;
